@@ -1,0 +1,41 @@
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+}
+
+header h1 {
+	margin: 0;
+	font-size: 36px;
+}
+
+header p {
+	margin: 0;
+	font-size: 18px;
+}
+
+.product-image img {
+	max-width: 100%;
+	height: auto;
+}
+
+.product-description {
+	margin: 20px;
+}
+
+.product-description h2 {
+	margin-top: 0;
+}
+
+.product-description ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.footer {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}

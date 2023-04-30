@@ -1,0 +1,48 @@
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+}
+
+header h1 {
+	margin: 0;
+	font-size: 36px;
+}
+
+form {
+	margin: 20px;
+	padding: 20px;
+	background-color: #f7f7f7;
+}
+
+label {
+	display: block;
+	margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="date"] {
+	padding: 5px;
+	border: none;
+	border-radius: 3px;
+	box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+}
+
+button[type="submit"] {
+	margin-top: 10px;
+	padding: 5px 10px;
+	background-color: #333;
+	color: #fff;
+	border: none;
+	border-radius: 3px;
+	cursor: pointer;
+}
+
+table {
+	margin: 20px;
+	border-collapse: collapse;
+}
+
+thead {
+	background-color: #333
